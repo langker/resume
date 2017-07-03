@@ -30,8 +30,8 @@ Università degli studi di Pavia, Computer Engineering, Service Engineering, ma
 实习公司:厦门火盒游戏开发有限公司  
 公司描述: 主推产品为基于 HTML5 的游戏引擎开发，现已改名为 cocos creator。负责后端用户 API 的编写，论坛的架设，公司网站的维护与开发以及静态博客系统的开发。 主要使用 NODEJS，数据库为 mongodb，使用框架 Meteor 具体可参见此:[这里](http://www.cocos.com/)
 
-2014.10 – 2014.12  
-项目经历: 成都金万泰公司
+2014.10 – 2014.12    
+项目经历: 成都金万泰公司  
 项目描述: 为外包项目，主要是给汽车 4S 店提供在线 ERP 服务。负责前后端的开发，主要使用框架为 ThinkPHP 和 EasyUI。
 具体可参见次:[这里](http://www.jinwantai.com/)
 
